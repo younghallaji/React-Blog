@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "author": "Sodiq",
+      "title": "My First Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam voluptates atque, minus nam pariatur est praesentium illo in odit totam quam molestiae deserunt id, perspiciatis vero optio ea saepe.Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio ut minima qui soluta eum voluptatum reiciendis ipsum iusto, inventore sunt placeat nobis nisi non quaerat veritatis error beatae architecto labore!"
+    },
+    {
+      "id": 2,
+      "author": "Sodiq",
+      "title": "My Second Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam voluptates atque, minus nam pariatur est praesentium illo in odit totam quam molestiae deserunt id, perspiciatis vero optio ea saepe.Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio ut minima qui soluta eum voluptatum reiciendis ipsum iusto, inventore sunt placeat nobis nisi non quaerat veritatis error beatae architecto labore!"
+    },
+    {
+      "title": "History",
+      "body": "A component is changing an uncontrolled input to be controlled. This is likely caused by the value changing from undefined to a defined value, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component.\nA component is changing an uncontrolled input to be controlled. This is likely caused by the value changing from undefined to a defined value, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component.\nA component is changing an uncontrolled input to be controlled. This is likely caused by the value changing from undefined to a defined value, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component.",
+      "author": "Pelumi",
+      "id": 6
+    },
+    {
+      "title": "After Deleting Blog",
+      "body": "To prevent heartburn, it's best to avoid lying down for at least two hours after eating. Avoiding fats, chocolate and citrus foods may also help. Antacid medications may ease symptoms immediately. Other medications such as omeprazole and ranitidine take longer to work, but may provide more effective relief.\nSEEKING MEDICAL CARE\nSee a doctor immediately if you:\nHave chest pain along with sweating, shortness of breath or pain in the arm or jaw\nExperience heartburn symptoms that don't respond to antacids",
+      "author": "Pelumi",
+      "id": 7
+    }
+  ]
+}
